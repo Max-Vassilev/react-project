@@ -1,1 +1,1 @@
-#Example React repository#
+*Example React repository*
