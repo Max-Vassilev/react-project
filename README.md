@@ -1,2 +1,1 @@
 *Example React repository*
-
